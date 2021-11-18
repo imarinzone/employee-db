@@ -14,6 +14,7 @@ import (
 	_ "github.com/lib/pq"
 )
 
+// update the postgres Database
 const (
 	user     = "postgres"
 	host     = "localhost"
